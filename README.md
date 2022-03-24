@@ -1,4 +1,4 @@
-# Brand-Sentiment-Analysis---Reddit-Scraping
+# Brand-Sentiment-Analysis---Python-Reddit-Scraping
 Reddit comment scraping for NLP-based brand sentiment analysis
 
 In order to run this code, you need to create your own Reddit developer account to access the API. Here is a guide to follow: https://towardsdatascience.com/how-to-use-the-reddit-api-in-python-5e05ddfd1e5c
